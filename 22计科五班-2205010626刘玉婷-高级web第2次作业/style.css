@@ -1,0 +1,147 @@
+.module1 {
+    width: 100%!important;
+    height: 400px!important;
+    background-image: url(./img/home-banner@2x.jpg)!important;
+}
+
+.jumbotron {
+    text-align: center!important;
+    background-color: rgba(0, 0, 0, 0)!important;
+}
+
+.jumbotron h1,
+.jumbotron p {
+    color: white!important;
+}
+
+.btn {
+    color: rgb(78, 125, 244)!important;
+}
+
+.btn1 {
+    height: 30px;
+    background-color: rgba(0, 0, 0, 0)!important;
+    border-color: rgba(248, 245, 245, 20)!important;
+    border-radius: 10%!important;
+    color: white!important;
+    position: absolute!important;
+    right: 80px!important;
+    top: 10px!important;
+}
+
+.btn2 {
+    height: 30px;
+    background-color: rgba(0, 0, 0, 0)!important;
+    border-color: rgba(248, 245, 245, 20)!important;
+    border-radius: 10%!important;
+    color: white!important;
+    position: absolute!important;
+    right: 15px!important;
+    top: 10px!important;
+}
+
+.btn3 {
+    height: 35px!important;
+    font-size: 15px!important;
+    color: black!important;
+}
+
+.outer1 {
+    width: 100%;
+    height: 500px;
+    background-color: rgba(144, 142, 142, 0.129);
+    overflow: hidden;
+}
+
+.inner {
+    width: 90%;
+    height: 400px;
+    background-color: rgba(0, 0, 0, 0);
+    margin: 0 auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.img1 {
+    width: 400px;
+}
+
+h4 {
+    font-weight: 600!important;
+}
+
+h3 {
+    font-size: calc(1.3rem+0.6vw)!important;
+    font-weight: 600!important;
+}
+
+.title {
+    font-weight: 600!important;
+    font-size: x-large!important;
+    text-align: left!important;
+}
+
+.content {
+    font-weight: 550!important;
+    font-size: 13px!important;
+    line-height: 0.5!important;
+}
+
+.outer3 {
+    width: 93%;
+
+}
+
+.inner2 {
+    width: 90%;
+    height: 60px;
+    background-color: rgba(0, 0, 0, 0);
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+.inner3 {
+    height: 150px;
+    width: 250px;
+    margin-left: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.inner4 {
+    height: 150px;
+    width: 250px;
+    margin-left: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+
+.inner5 {
+    height: 150px;
+    width: 250px;
+    margin-left: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.img2 {
+    width: 50px;
+    height: 50px;
+    margin-bottom: 10px;
+
+}
+
+.p1 {
+    line-height: 2.5;
+
+}
+
+.bs-docs-footer {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-top: 10px;
+    color: black;
+    text-align: center;
+    background-color: rgba(144, 142, 142, 0.129);
+}
